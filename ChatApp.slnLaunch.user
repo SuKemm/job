@@ -7,10 +7,6 @@
         "Action": "Start"
       },
       {
-        "Path": "src\\ChatApp.Shared\\ChatApp.Shared.csproj",
-        "Action": "Start"
-      },
-      {
         "Path": "src\\ChatApp.Client\\ChatApp.Client.csproj",
         "Action": "Start"
       }
